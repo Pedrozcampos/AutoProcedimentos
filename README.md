@@ -29,6 +29,7 @@ O software aplica os seguintes testes:
 * **CustomTkinter**: Interface moderna (GUI) com suporte a Dark Mode.
 * **Matplotlib**: Geração de gráficos para o Dashboard de riscos.
 * **Openpyxl**: Estilização avançada e formatação de planilhas Excel.
+* **Regex**: Utilizado para buscar um padrão de forma flexível.
 
 ##  Como Executar
 1. Instale as dependências:
@@ -37,4 +38,4 @@ O software aplica os seguintes testes:
 
 
 ## EXE
-Tem suporte para se tornar um .exe e a pessoa que for usar não precisa com o vs code e as bibliotecas etc. Facilitando para o cliente.
+Tem suporte para se tornar um .exe e a pessoa que for usar não precisa ter o vs code e as bibliotecas etc... Facilitando para o cliente.
