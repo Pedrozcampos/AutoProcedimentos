@@ -1,4 +1,4 @@
-#  ProcAuditoria: Automação de Auditoria Contábil com Python
+#  ProcAuditoria
 
 O **ProcAuditoria** é uma ferramenta de Auditoria Contábil Inteligente desenvolvida para automatizar a análise de Razões Contábeis (arquivos Excel/CSV). O sistema utiliza processamento de dados para identificar riscos críticos e gera relatórios formatados prontos para análise técnica, incluindo um dashboard visual. Ele segue um padrão de procedimentos chamado Journal Entries, ele é comum em análises de auditoria e contabilidade.
 
