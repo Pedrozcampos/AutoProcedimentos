@@ -3,7 +3,7 @@ import re
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
 
-
+# -- classe de processos --
 class AuditProcessor:
     def __init__(self, file_path, et_value=10000, progress_callback=None):
         self.file_path = file_path
