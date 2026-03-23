@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import customtkinter as ctk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-
+# -- classe do gráfico --
 class DashboardWindow(ctk.CTkToplevel):
     def __init__(self, stats):
         super().__init__()
