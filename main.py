@@ -9,7 +9,7 @@ from DashBoard import DashboardWindow
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
 
-
+# -- classe GUI --
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
